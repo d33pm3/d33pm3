@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=20&duration=3400&pause=1000&color=E8DCC8&center=true&vCenter=true&width=920&height=36&lines=DK+Mendiratta+%C2%B7+Chartered+Accountant;Governance+%C2%B7+Risk+%C2%B7+Finance+%C2%B7+Internal+Audit+%C2%B7+Regulatory+Compliance;Helping+boards%2C+audit+committees+and+CXOs;Building+RegTech+systems+and+Internal+Tools+for+Business" alt="Typing identity">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=20&duration=3400&pause=1000&color=E8DCC8&center=true&vCenter=true&width=920&height=36&lines=DK+Mendiratta+%C2%B7+GRC+Professional;Governance+%C2%B7+Risk+%C2%B7+Finance+%C2%B7+Internal+Audit+%C2%B7+Regulatory+Compliance;Helping+boards%2C+audit+committees+and+CXOs;Building+RegTech+systems+and+Internal+Tools+for+Business" alt="Typing identity">
 </p>
 
 <p align="center">

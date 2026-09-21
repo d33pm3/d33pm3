@@ -82,8 +82,6 @@ Legal opinions, live regulatory monitoring, or official filings. Public tools ar
 
 ### ▌ BUILD LOG
 
-Contribution snake — generated from this account's public grid. First render appears after Actions runs once on this repository.
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/d33pm3/d33pm3/output/github-contribution-grid-snake-dark.svg">
@@ -93,6 +91,7 @@ Contribution snake — generated from this account's public grid. First render a
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=d33pm3&show_icons=true&hide_border=true&title_color=E8DCC8&icon_color=C45C6A&text_color=A9B4A4&bg_color=07090C&hide=contribs" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d33pm3&layout=compact&hide_border=true&title_color=E8DCC8&text_color=A9B4A4&bg_color=07090C&exclude_repo=cpython,n8n,metabase,metasploit-framework,MinerU,openclaw,composio,streamlit,adk-python,LightRAG,pydantic,hermes,hermes-agent,gbrain,clawhub,NemoClaw,cc-switch,OCRmyPDF" alt="Top languages on original work">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=d33pm3&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats">
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d33pm3&layout=compact&theme=dark&hide_border=true&exclude_repo=cpython,n8n,metabase,metasploit-framework" alt="Top languages">
 </p>

@@ -1,0 +1,27 @@
+name: materialize-gif
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "assets/grc-hud-banner.gif.b64"
+      - ".github/workflows/materialize-gif.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  decode:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Decode GIF
+        run: base64 -d assets/grc-hud-banner.gif.b64 > assets/grc-hud-banner.gif
+      - name: Commit GIF
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/grc-hud-banner.gif
+          git diff --cached --quiet || git commit -m "Materialize GRC HUD GIF banner"
+          git push

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/grc-hud-banner.svg" alt="GRC HUD — DK Mendiratta" width="100%">
+  <img src="./assets/grc-hud-banner.svg?v=2" alt="GRC HUD — DK Mendiratta" width="100%">
 </p>
 
 <p align="center">

@@ -11,7 +11,9 @@
   &nbsp;
   <img src="https://img.shields.io/badge/GRC-RegTech_%26_Business_Apps-8B2942?style=flat-square" alt="GRC RegTech & Business Apps">
   &nbsp;
-  <img src="https://img.shields.io/badge/domain-Governance%2C_Risk_Management%2C_Finance%2C_Internal_Controls%2C_Regulatory_Compliance-0C1016?style=flat-square&labelColor=8B2942" alt="Governance, Risk Management, Finance, Internal Controls, Regulatory Compliance">
+  <img src="https://img.shields.io/badge/domain-Governance%2C_Risk_Management%2C_Finance-0C1016?style=flat-square&labelColor=8B2942" alt="Governance, Risk Management, Finance">
+  &nbsp;
+  <img src="https://img.shields.io/badge/domain-Internal_Controls_%26_Regulatory_Compliance-0C1016?style=flat-square&labelColor=8B2942" alt="Internal Controls & Regulatory Compliance">
 </p>
 
 ---

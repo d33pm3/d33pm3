@@ -9,9 +9,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=d33pm3&label=PROFILE+VIEWS&color=8B2942&style=flat-square" alt="Profile views">
   &nbsp;
-  <img src="https://img.shields.io/badge/GRC-RegTech-8B2942?style=flat-square" alt="GRC RegTech">
+  <img src="https://img.shields.io/badge/GRC-RegTech_%26_Business_Apps-8B2942?style=flat-square" alt="GRC RegTech & Business Apps">
   &nbsp;
-  <img src="https://img.shields.io/badge/domain-India_listed_company_compliance-0C1016?style=flat-square&labelColor=8B2942" alt="India listed company compliance">
+  <img src="https://img.shields.io/badge/domain-Governance%2C_Risk_Management%2C_Finance%2C_Internal_Controls%2C_Regulatory_Compliance-0C1016?style=flat-square&labelColor=8B2942" alt="Governance, Risk Management, Finance, Internal Controls, Regulatory Compliance">
 </p>
 
 ---
